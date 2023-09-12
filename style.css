@@ -562,7 +562,7 @@ li>a:only-child:after {
 
 /* background images for banner */
 .banner-w3pvt-1 {
-    background: url(../images/banner1.jpg) no-repeat top;
+    background: url(gps.jpg) no-repeat top;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -572,7 +572,7 @@ li>a:only-child:after {
 }
 
 .banner-w3pvt-2 {
-    background: url(../images/banner2.jpg) no-repeat center;
+    background: url(gps.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -582,7 +582,7 @@ li>a:only-child:after {
 }
 
 .banner-w3pvt-3 {
-    background: url(../images/banner3.jpg) no-repeat center;
+    background: url(gps.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
